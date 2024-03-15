@@ -21,6 +21,7 @@ Currently, I am diving into the world of professional development (pro-code) to 
 - PL-900
 - PL-200
 - AZ-900
+- DP-900
 
 ## Technologies
 
